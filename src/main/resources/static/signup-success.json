@@ -1,0 +1,19 @@
+{
+  "codeDeliveryDetails": {
+    "attributeName": "email",
+    "deliveryMedium": {
+      "value": "EMAIL"
+    },
+    "destination": "c***@g***"
+  },
+  "userConfirmed": false,
+  "userSub": "d80cd19f-cd21-44f2-b953-d2d947759668",
+  "responseMetadata": {
+    "requestId": "affcdf99-6fb9-4ccf-9dbe-365d8617aaac",
+    "metadata": {},
+    "checksumAlgorithm": 0,
+    "checksumValidationStatus": 0
+  },
+  "contentLength": 171,
+  "httpStatusCode": 200
+}
