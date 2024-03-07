@@ -1,0 +1,17 @@
+{
+"codeDeliveryDetails": {
+"attributeName": "email",
+"deliveryMedium": {
+"value": "EMAIL"
+},
+"destination": "c***@g***"
+},
+"responseMetadata": {
+"requestId": "f27e53ee-19d1-4306-9f33-77ca824ca1be",
+"metadata": {},
+"checksumAlgorithm": 0,
+"checksumValidationStatus": 0
+},
+"contentLength": 100,
+"httpStatusCode": 200
+}
